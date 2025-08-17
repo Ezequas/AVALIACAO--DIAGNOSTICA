@@ -192,7 +192,7 @@ $idade5 = 19;
 
 $idades = [$idade1, $idade2, $idade3, $idade4, $idade5];
 
-// Contadores de categorias
+
 $qtdCrianca = 0;
 $qtdAdolescente = 0;
 $qtdAdulto = 0;
